@@ -33,12 +33,12 @@ Books in this section aim to provide fundamental theoretical knowledge for under
 - **Interviews**: [Cracking The Coding Interview](https://www.amazon.co.uk/Cracking-Coding-Interview-6th-Programming/dp/0984782850/)
 
 ## Conferences
-- [AWS Re:Invent](https://reinvent.awsevents.com/) - [Las Vegas, 2016](https://gist.github.com/stevenringo/5f0f9cc7b329dbaa76f495a6af8241e9)
-- [Google Next](https://cloudnext.withgoogle.com/) - [San Francisco, 2017](https://www.youtube.com/watch?v=j_K1YoMHpbk&list=PLIivdWyY5sqI8RuUibiH8sMb1ExIw0lAR)
-- [StrangeLoop](https://www.thestrangeloop.com/) - [St. Louis, 2017](https://www.youtube.com/watch?v=_Zoa3xkzgFk&list=PLcGKfGEEONaDzd0Hkn2f1talsTu1HLDYu), [St. Louis, 2016](https://www.youtube.com/watch?v=C4rT0lgJr6U&list=PLcGKfGEEONaDvuLDFFKRfzbsaBuVVXdYa)
+- [AWS Re:Invent](https://reinvent.awsevents.com/) - [[Las Vegas, 2016](https://gist.github.com/stevenringo/5f0f9cc7b329dbaa76f495a6af8241e9)]
+- [Google Next](https://cloudnext.withgoogle.com/) - [[San Francisco, 2017](https://www.youtube.com/watch?v=j_K1YoMHpbk&list=PLIivdWyY5sqI8RuUibiH8sMb1ExIw0lAR)]
+- [StrangeLoop](https://www.thestrangeloop.com/) - [[St. Louis, 2017](https://www.youtube.com/watch?v=_Zoa3xkzgFk&list=PLcGKfGEEONaDzd0Hkn2f1talsTu1HLDYu)] [[St. Louis, 2016](https://www.youtube.com/watch?v=C4rT0lgJr6U&list=PLcGKfGEEONaDvuLDFFKRfzbsaBuVVXdYa)]
 - [CloudNativeCon / KubeCon](http://events.linuxfoundation.org/events/kubecon) - [[Berlin, 2017](https://www.youtube.com/watch?v=FYCYtAaU9Xw&list=PLj6h78yzYM2PAavlbv0iZkod4IVh_iGqV)]
-- [DockerCon](https://2017.dockercon.com/) - [Austin, 2017](https://www.youtube.com/playlist?list=PLkA60AVN3hh_nihZ1mh6cO3n-uMdF7UlV)
-- [HashiConf](https://www.hashiconf.com/) - [San Francisco, 2017](https://www.youtube.com/watch?v=b6nn7vLdjo8&list=PL81sUbsFNc5Y-jbEC1y5BWenDoYscVv4t)
+- [DockerCon](https://2017.dockercon.com/) - [[Austin, 2017](https://www.youtube.com/playlist?list=PLkA60AVN3hh_nihZ1mh6cO3n-uMdF7UlV)]
+- [HashiConf](https://www.hashiconf.com/) - [[San Francisco, 2017](https://www.youtube.com/watch?v=b6nn7vLdjo8&list=PL81sUbsFNc5Y-jbEC1y5BWenDoYscVv4t)]
 
 ## SRE/DevOps/WebOps
 - **Book**: [The Devops Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations ](https://www.amazon.co.uk/Devops-Handbook-World-Class-Reliability-Organizations/dp/1942788002)
