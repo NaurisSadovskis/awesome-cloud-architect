@@ -38,30 +38,30 @@ Books in this section aim to provide fundamental theoretical knowledge for under
 - [StrangeLoop](https://www.thestrangeloop.com/) - [2017](https://www.youtube.com/watch?v=_Zoa3xkzgFk&list=PLcGKfGEEONaDzd0Hkn2f1talsTu1HLDYu), [2016](https://www.youtube.com/watch?v=C4rT0lgJr6U&list=PLcGKfGEEONaDvuLDFFKRfzbsaBuVVXdYa)
 
 ## SRE/DevOps/WebOps
-- Book: [The Devops Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations ](https://www.amazon.co.uk/Devops-Handbook-World-Class-Reliability-Organizations/dp/1942788002)
-- Book: [Practice of Cloud System Administration, The: Designing and Operating Large Distributed Systems](https://www.amazon.co.uk/Practice-Cloud-System-Administration-Distributed/dp)
-- Book: [Site Reliability Engineering: How Google Runs Production Systems](https://www.amazon.co.uk/Site-Reliability-Engineering-Production-Systems/dp/149192912X)
-- Book: [Cloud Native Infrastructure: Patterns for Scalable Infrastructure and Applications in a Dynamic Environment](https://www.amazon.co.uk/Cloud-Native-Infrastructure-Justin-Garrison/dp/1491984309) - Available [for FREE!](http://www.oreilly.com/pub/get/thecloudcast2017)
-- Book: [Web Operations: Keeping the Data on Time](https://www.amazon.co.uk/Web-Operations-Keeping-Data-Time-ebook/dp/B0043M4Z34/ref=sr_1_3?ie=UTF8&qid=1511615643&sr=8-3&keywords=john+allspaw)
-- Book: [FREE: O'Reilly's WebOps & DevOps Ebooks](http://www.oreilly.com/webops/free/)
-- Book: [FREE: O'Reilly's Security Ebooks](http://www.oreilly.com/security/free/)
-- Book: Sidney Dekker books (I have been recommended, but haven't read)
-- GitHub: [Awesome SRE](https://github.com/dastergon/awesome-sre)
-- YouTube: [Resilience Engineering as DevOps: ow Your Systems Keep Running Day After Day - John Allspaw](https://www.youtube.com/watch?v=xA5U85LSk0M)
-- Newsletter/Blog: [SRE Weekly](https://sreweekly.com/)
+- **Book**: [The Devops Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations ](https://www.amazon.co.uk/Devops-Handbook-World-Class-Reliability-Organizations/dp/1942788002)
+- **Book**: [Practice of Cloud System Administration, The: Designing and Operating Large Distributed Systems](https://www.amazon.co.uk/Practice-Cloud-System-Administration-Distributed/dp)
+- **Book**: [Site Reliability Engineering: How Google Runs Production Systems](https://www.amazon.co.uk/Site-Reliability-Engineering-Production-Systems/dp/149192912X)
+- **Book**: [Cloud Native Infrastructure: Patterns for Scalable Infrastructure and Applications in a Dynamic Environment](https://www.amazon.co.uk/Cloud-Native-Infrastructure-Justin-Garrison/dp/1491984309) - Available [for FREE!](http://www.oreilly.com/pub/get/thecloudcast2017)
+- **Book**: [Web Operations: Keeping the Data on Time](https://www.amazon.co.uk/Web-Operations-Keeping-Data-Time-ebook/dp/B0043M4Z34/ref=sr_1_3?ie=UTF8&qid=1511615643&sr=8-3&keywords=john+allspaw)
+- **Book**: [FREE: O'Reilly's WebOps & DevOps Ebooks](http://www.oreilly.com/webops/free/)
+- **Book**: [FREE: O'Reilly's Security Ebooks](http://www.oreilly.com/security/free/)
+- **Book**: Sidney Dekker books (I have been recommended, but haven't read)
+- **GitHub**: [Awesome SRE](https://github.com/dastergon/awesome-sre)
+- **YouTube**: [Resilience Engineering as DevOps: ow Your Systems Keep Running Day After Day - John Allspaw](https://www.youtube.com/watch?v=xA5U85LSk0M)
+- **Newsletter/Blog**: [SRE Weekly](https://sreweekly.com/)
 
 ## System Design
-- GitHub: [Awesome Distributed Systems](https://github.com/theanalyst/awesome-distributed-systems) - a curated list to learn about distributed systems.
-- GitHub: [System Design Primer](https://github.com/donnemartin/system-design-primer) - learn how to design large-scale systems. 
-- Video: [Zen of architecture - Juval Löwy](https://www.safaribooksonline.com/library/view/oreilly-software-architecture/9781491944615/video245413.html)<sup>[*](#safaribooksonline)</sup> (4 parts) - in this dense tutorial, Juval Löwy explains his approach to large system analysis and design: using volatility to decompose a system into its comprising services. 
-- Video: [What We Talk About When We Talk About Distributed Systems](https://www.safaribooksonline.com/library/view/velocity-conference-2017/9781491985335/video316208.html)<sup>[*](#safaribooksonline)</sup> - distributed systems are complex. There's abundant research, but sometimes it's hard for a beginner to know where to start. 
+- **GitHub**: [Awesome Distributed Systems](https://github.com/theanalyst/awesome-distributed-systems) - a curated list to learn about distributed systems.
+- **GitHub**: [System Design Primer](https://github.com/donnemartin/system-design-primer) - learn how to design large-scale systems. 
+- **Video**: [Zen of architecture - Juval Löwy](https://www.safaribooksonline.com/library/view/oreilly-software-architecture/9781491944615/video245413.html)<sup>[*](#safaribooksonline)</sup> (4 parts) - in this dense tutorial, Juval Löwy explains his approach to large system analysis and design: using volatility to decompose a system into its comprising services. 
+- **Video**: [What We Talk About When We Talk About Distributed Systems](https://www.safaribooksonline.com/library/view/velocity-conference-2017/9781491985335/video316208.html)<sup>[*](#safaribooksonline)</sup> - distributed systems are complex. There's abundant research, but sometimes it's hard for a beginner to know where to start. 
 
 ## Computer Science 
-- GitHub: [Coding Interview University](https://github.com/jwasham/coding-interview-university) - study topics for becoming a software engineer.
-- Blog: [The Morning Paper](https://blog.acolyer.org/) - an interesting/influential/important paper from the world of CS every weekday morning.
-- YouTube Channel: [Two Minute Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg) - series where the most recent and awesome scientific works are discussed in a simple and enjoyable way, two minutes at a time. 
+- **GitHub**: [Coding Interview University](https://github.com/jwasham/coding-interview-university) - study topics for becoming a software engineer.
+- **Blog**: [The Morning Paper](https://blog.acolyer.org/) - an interesting/influential/important paper from the world of CS every weekday morning.
+- **YouTube Channel**: [Two Minute Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg) - series where the most recent and awesome scientific works are discussed in a simple and enjoyable way, two minutes at a time. 
 
 ## Misc
-- YouTube: [Metaphors We Compute By – Alvaro Videla](https://www.youtube.com/watch?v=3YqVK1th_cA) - what happens with the metaphors that we use in the Software Industry?
+- **YouTube**: [Metaphors We Compute By – Alvaro Videla](https://www.youtube.com/watch?v=3YqVK1th_cA) - what happens with the metaphors that we use in the Software Industry?
 
 <b id="safaribooksonline">*</b> [SafariBooksOnline](https://www.safaribooksonline.com/) requires subscription. Free 7-day trial available.
