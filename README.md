@@ -1,1 +1,67 @@
-# Awesome
+# Awesome Cloud Architect
+
+Content in this repository has been inspired by [sidresorhus's awesome list](https://github.com/sindresorhus/awesome). This repository contains books and resources to make you a become or be a better cloud architect. There are plenty of good tools out there, so I have kept this content tool-agnostic, instead focusing on good ol' theory.
+
+## Books: Technical Fundamentals
+Books in this section aim to provide fundamental theoretical knowledge for understanding parts modern system architecture. Most books should be accessible to wider-audience due to their non-mathematical content. I have attempted to do my best to arrange these books in order.
+
+- Computer Science (general): [Computer Science, An Overview](https://www.amazon.co.uk/Computer-Science-Overview-Glenn-Brookshear/dp/1292061162)
+- Software Engineering (general): [Software Engineering: A Practitioner's Approach](https://www.amazon.co.uk/Software-Engineering-Practitioners-Roger-Pressman/dp/0073375977)
+- Software Engineering (general): [Software Engineering (9th edition, Sommerville)](https://www.amazon.co.uk/Software-Engineering-International-Ian-Sommerville/dp/0137053460)
+- Algorithms: [Grokking Algorithms](https://www.amazon.co.uk/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230)
+- Requirements Engineering: [Mastering the Requirements Process: Getting Requirements Right](https://www.amazon.co.uk/Mastering-Requirements-Process-Getting-Right/dp/0321815742)
+- Software Architecture: [Just Enough Software Architecture: A Risk-Driven Approach](https://www.amazon.co.uk/Just-Enough-Software-Architecture-Risk-Driven/dp/0984618104)
+- Software Architecture: [Service-Oriented Architecture: Analysis and Design for Services and Microservices](https://www.amazon.co.uk/Service-Oriented-Architecture-Analysis-Microservices-Technology/dp/0133858588)
+- Software Architecture: [Software Architecture for Big Data and the Cloud](https://www.amazon.co.uk/Software-Architecture-Big-Data-Cloud/dp/0128054670)
+- Software Architecture: [Documenting Software Architectures: Views and Beyond](https://www.amazon.co.uk/Documenting-Software-Architectures-Engineering-Hardcover/dp/0321552687)
+- System Architecture: [Cloud Computing Design Patterns](https://www.amazon.co.uk/Computing-Patterns-Prentice-Service-Technology/dp/0133858561)
+- System Architecture: [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.amazon.co.uk/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
+- Cloud Computing (History): [Inventing the Cloud Century: How Cloudiness Keeps Changing Our Life, Economy and Technology](https://www.amazon.co.uk/Inventing-Cloud-Century-Cloudiness-Technology/dp/3319611607/)
+- Cloud Computing: [Cloud Computing: Theory and Practice](https://www.amazon.co.uk/Cloud-Computing-Practice-Dan-Marinescu/dp/0128128100)
+- Cloud Computing: [Cloud Computing (Bhowmik, Cambridge, 2017)](https://www.amazon.co.uk/Cloud-Computing-Sandeep-Bhowmik/dp/1316638103)
+- Cloud Computing: [Cloud Computing: Principles, Systems and Applications](https://www.amazon.co.uk/Cloud-Computing-Principles-Applications-Communications/dp/3319546449/)
+- Distributed Systems: [Guide to Reliable Distributed Systems: Building High-Assurance Applications and Cloud-Hosted Services](https://www.amazon.co.uk/Guide-Reliable-Distributed-Systems-High-Assurance/dp/1447124154)
+- Distributed Systems: [Distributed Systems: Concepts and Design](https://www.amazon.co.uk/Distributed-Systems-Concepts-George-Coulouris/dp/0132143011)
+- SRE/Ops: [Art of Scalability, The: Scalable Web Architecture, Processes, and Organizations for the Modern Enterprise](https://www.amazon.co.uk/Art-Scalability-Architecture-Organizations-Enterprise/dp/0134032802)
+- Computer Networking: [Computer Networking, A Top-Down Approach](https://www.amazon.co.uk/Computer-Networking-Top-Down-Approach-Global/dp/1292153598)
+- Databases: [Database Systems: A Practical Approach to Design, Implementation, and Management](https://www.amazon.co.uk/Database-Systems-Practical-Implementation-Management/dp/1292061189)
+- Computer Security: [Silence On The Wire: A Field Guide to Passive Reconnaissance and Indirect Attacks](https://www.amazon.co.uk/Silence-Wire-Passive-Reconnaissance-Indirect-ebook/dp/B008FRNHVY)
+- Computer Security: [Hacking: The Art of Exploitation](https://www.amazon.co.uk/Hacking-Art-Exploitation-Erickson-Paperback/dp/B00M0NUO7E)
+- Computer Security: [Computer Security: Principles and Practice](https://www.amazon.co.uk/Computer-Security-Principles-William-Stallings/dp/0133773922)
+- Computer Security: [Security Engineering: A Guide to Building Dependable Distributed Systems](https://www.amazon.co.uk/Security-Engineering-Building-Dependable-Distributed/dp/0470068523) - Available [for FREE!](http://www.cl.cam.ac.uk/~rja14/book.html)
+- Cryptography: [Everyday Cryptography: Fundamental Principles and Applications](https://www.amazon.co.uk/Everyday-Cryptography-Fundamental-Principles-Applications/dp/0198788010)
+- Interviews: [Cracking The Coding Interview](https://www.amazon.co.uk/Cracking-Coding-Interview-6th-Programming/dp/0984782850/)
+
+## Conferences
+- [AWS Re:Invent](https://reinvent.awsevents.com/) - [2016](https://gist.github.com/stevenringo/5f0f9cc7b329dbaa76f495a6af8241e9)
+- [Google Next](https://cloudnext.withgoogle.com/) - [2017](https://www.youtube.com/watch?v=j_K1YoMHpbk&list=PLIivdWyY5sqI8RuUibiH8sMb1ExIw0lAR)
+- [StrangeLoop](https://www.thestrangeloop.com/) - [2017](https://www.youtube.com/watch?v=_Zoa3xkzgFk&list=PLcGKfGEEONaDzd0Hkn2f1talsTu1HLDYu), [2016](https://www.youtube.com/watch?v=C4rT0lgJr6U&list=PLcGKfGEEONaDvuLDFFKRfzbsaBuVVXdYa)
+
+## SRE/DevOps/WebOps
+- Book: [The Devops Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations ](https://www.amazon.co.uk/Devops-Handbook-World-Class-Reliability-Organizations/dp/1942788002)
+- Book: [Practice of Cloud System Administration, The: Designing and Operating Large Distributed Systems](https://www.amazon.co.uk/Practice-Cloud-System-Administration-Distributed/dp)
+- Book: [Site Reliability Engineering: How Google Runs Production Systems](https://www.amazon.co.uk/Site-Reliability-Engineering-Production-Systems/dp/149192912X)
+- Book: [Cloud Native Infrastructure: Patterns for Scalable Infrastructure and Applications in a Dynamic Environment](https://www.amazon.co.uk/Cloud-Native-Infrastructure-Justin-Garrison/dp/1491984309) - Available [for FREE!](http://www.oreilly.com/pub/get/thecloudcast2017)
+- Book: [Web Operations: Keeping the Data on Time](https://www.amazon.co.uk/Web-Operations-Keeping-Data-Time-ebook/dp/B0043M4Z34/ref=sr_1_3?ie=UTF8&qid=1511615643&sr=8-3&keywords=john+allspaw)
+- Book: [FREE: O'Reilly's WebOps & DevOps Ebooks](http://www.oreilly.com/webops/free/)
+- Book: [FREE: O'Reilly's Security Ebooks](http://www.oreilly.com/security/free/)
+- Book: Sidney Dekker books (I have been recommended, but haven't read)
+- GitHub: [Awesome SRE](https://github.com/dastergon/awesome-sre)
+- YouTube: [Resilience Engineering as DevOps: ow Your Systems Keep Running Day After Day - John Allspaw](https://www.youtube.com/watch?v=xA5U85LSk0M)
+- Newsletter/Blog: [SRE Weekly](https://sreweekly.com/)
+
+## System Design
+- GitHub: [Awesome Distributed Systems](https://github.com/theanalyst/awesome-distributed-systems)
+- GitHub: [System Design Primer](https://github.com/donnemartin/system-design-primer)
+- Video: [Zen of architecture - Juval Löwy](https://www.safaribooksonline.com/library/view/velocity-conference-2017/9781491985335/video316208.html)<sup>[*](#safaribooksonline)</sup> (4 parts)
+- Video: [What We Talk About When We Talk About Distributed Systems](https://www.safaribooksonline.com/library/view/velocity-conference-2017/9781491985335/video316208.html)<sup>[*](#safaribooksonline)</sup>
+
+## Computer Science 
+- GitHub: [Coding Interview University](https://github.com/jwasham/coding-interview-university)
+- Blog: [The Morning Paper](https://blog.acolyer.org/)
+- YouTube Channel: [Two Minute Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg)
+
+## Misc
+- YouTube: [Metaphors We Compute By – Alvaro Videla](https://www.youtube.com/watch?v=3YqVK1th_cA)
+
+<b id="safaribooksonline">*</b> [SafariBooksOnline](https://www.safaribooksonline.com/) requires subscription. Free 7-day trial available.
