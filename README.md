@@ -58,6 +58,8 @@ Books in this section aim to provide fundamental theoretical knowledge for under
 - **GitHub**: [System Design Primer](https://github.com/donnemartin/system-design-primer) - learn how to design large-scale systems. 
 - **Video**: [Zen of architecture - Juval Löwy](https://www.safaribooksonline.com/library/view/oreilly-software-architecture/9781491944615/video245413.html)<sup>[*](#safaribooksonline)</sup> (4 parts) - in this dense tutorial, Juval Löwy explains his approach to large system analysis and design: using volatility to decompose a system into its comprising services. 
 - **Video**: [What We Talk About When We Talk About Distributed Systems](https://www.safaribooksonline.com/library/view/velocity-conference-2017/9781491985335/video316208.html)<sup>[*](#safaribooksonline)</sup> - distributed systems are complex. There's abundant research, but sometimes it's hard for a beginner to know where to start. 
+- **Blog**: [All Things Distributed](http://www.allthingsdistributed.com/) - Amazon CTO's blog
+- **Wiki**: [Cloud Design Pattern](http://en.clouddesignpattern.org/index.php/Main_Page) - slightly dated, but highly useful resource full of various cloud design patterns. Uses AWS services as examples, but can be applied across other cloud main cloud platforms.
 
 ## Computer Science 
 - **GitHub**: [Coding Interview University](https://github.com/jwasham/coding-interview-university) - study topics for becoming a software engineer.
