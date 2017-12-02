@@ -51,6 +51,7 @@ Books in this section aim to provide fundamental theoretical knowledge for under
 - **Book**: Sidney Dekker books (I have been recommended, but haven't read)
 - **GitHub**: [Awesome SRE](https://github.com/dastergon/awesome-sre)
 - **YouTube**: [Resilience Engineering as DevOps: ow Your Systems Keep Running Day After Day - John Allspaw](https://www.youtube.com/watch?v=xA5U85LSk0M)
+- **YouTube**: [The AWS Philosophy of Security | AWS re:Invent 2017](https://www.youtube.com/watch?v=KJiCfPXOW-U)
 - **Newsletter/Blog**: [SRE Weekly](https://sreweekly.com/)
 
 ## System Design
