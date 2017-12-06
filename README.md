@@ -47,27 +47,31 @@ Books in this section aim to provide fundamental theoretical knowledge for under
 - **Book**: [Site Reliability Engineering: How Google Runs Production Systems](https://www.amazon.co.uk/Site-Reliability-Engineering-Production-Systems/dp/149192912X)
 - **Book**: [Cloud Native Infrastructure: Patterns for Scalable Infrastructure and Applications in a Dynamic Environment](https://www.amazon.co.uk/Cloud-Native-Infrastructure-Justin-Garrison/dp/1491984309) - Available [for FREE!](http://www.oreilly.com/pub/get/thecloudcast2017)
 - **Book**: [Defensive Security Handbook: Best Practices for Securing Infrastructure](https://www.amazon.co.uk/Defensive-Security-Handbook-Practices-Infrastructure/dp/1491960388)
+- **Book**: [Building Evolutionary Architectures](https://www.amazon.co.uk/Building-Evolutionary-Architectures-Neal-Ford/dp/1491986360/)
+- **Book**: [Building Microservices](https://www.amazon.co.uk/Building-Microservices-Sam-Newman/dp/1491950358)
 - **Book**: [Web Operations: Keeping the Data on Time](https://www.amazon.co.uk/Web-Operations-Keeping-Data-Time-ebook/dp/B0043M4Z34)
 - **Book**: [FREE: O'Reilly's WebOps & DevOps Ebooks](http://www.oreilly.com/webops/free/)
 - **Book**: [FREE: O'Reilly's Security Ebooks](http://www.oreilly.com/security/free/)
 - **Book**: Sidney Dekker books
 - **GitHub**: [Awesome SRE](https://github.com/dastergon/awesome-sre)
-- **YouTube**: [Resilience Engineering as DevOps: ow Your Systems Keep Running Day After Day - John Allspaw](https://www.youtube.com/watch?v=xA5U85LSk0M)
+- **GitHub**: [Awesome Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering)
+- **YouTube**: [Resilience Engineering as DevOps: How Your Systems Keep Running Day After Day - John Allspaw](https://www.youtube.com/watch?v=xA5U85LSk0M)
 - **YouTube**: [The AWS Philosophy of Security | AWS re:Invent 2017](https://www.youtube.com/watch?v=KJiCfPXOW-U)
 - **Newsletter/Blog**: [SRE Weekly](https://sreweekly.com/)
+- **Article**: [Documenting Architecture Decisions (ADR)](http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions)
 
 ## System Design
 - **GitHub**: [Awesome Distributed Systems](https://github.com/theanalyst/awesome-distributed-systems) - a curated list to learn about distributed systems.
-- **GitHub**: [System Design Primer](https://github.com/donnemartin/system-design-primer) - learn how to design large-scale systems. 
-- **Video**: [Zen of architecture - Juval Löwy](https://www.safaribooksonline.com/library/view/oreilly-software-architecture/9781491944615/video245413.html)<sup>[*](#safaribooksonline)</sup> (4 parts) - in this dense tutorial, Juval Löwy explains his approach to large system analysis and design: using volatility to decompose a system into its comprising services. 
-- **Video**: [What We Talk About When We Talk About Distributed Systems](https://www.safaribooksonline.com/library/view/velocity-conference-2017/9781491985335/video316208.html)<sup>[*](#safaribooksonline)</sup> - distributed systems are complex. There's abundant research, but sometimes it's hard for a beginner to know where to start. 
+- **GitHub**: [System Design Primer](https://github.com/donnemartin/system-design-primer) - learn how to design large-scale systems.
+- **Video**: [Zen of architecture - Juval Löwy](https://www.safaribooksonline.com/library/view/oreilly-software-architecture/9781491944615/video245413.html)<sup>[*](#safaribooksonline)</sup> (4 parts) - in this dense tutorial, Juval Löwy explains his approach to large system analysis and design: using volatility to decompose a system into its comprising services.
+- **Video**: [What We Talk About When We Talk About Distributed Systems](https://www.safaribooksonline.com/library/view/velocity-conference-2017/9781491985335/video316208.html)<sup>[*](#safaribooksonline)</sup> - distributed systems are complex. There's abundant research, but sometimes it's hard for a beginner to know where to start.
 - **Blog**: [All Things Distributed](http://www.allthingsdistributed.com/) - Amazon CTO's blog
 - **Wiki**: [Cloud Design Pattern](http://en.clouddesignpattern.org/index.php/Main_Page) - slightly dated, but highly useful resource full of various cloud design patterns. Uses AWS services as examples, but can be applied across other cloud main cloud platforms.
 
-## Computer Science 
+## Computer Science
 - **GitHub**: [Coding Interview University](https://github.com/jwasham/coding-interview-university) - study topics for becoming a software engineer.
 - **Blog**: [The Morning Paper](https://blog.acolyer.org/) - an interesting/influential/important paper from the world of CS every weekday morning.
-- **YouTube Channel**: [Two Minute Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg) - series where the most recent and awesome scientific works are discussed in a simple and enjoyable way, two minutes at a time. 
+- **YouTube Channel**: [Two Minute Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg) - series where the most recent and awesome scientific works are discussed in a simple and enjoyable way, two minutes at a time.
 
 ## Misc
 - **YouTube**: [Metaphors We Compute By – Alvaro Videla](https://www.youtube.com/watch?v=3YqVK1th_cA) - what happens with the metaphors that we use in the Software Industry?
