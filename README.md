@@ -56,6 +56,7 @@ Books in this section aim to provide fundamental theoretical knowledge for under
 - **GitHub**: [Awesome SRE](https://github.com/dastergon/awesome-sre)
 - **GitHub**: [Awesome Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering)
 - **YouTube**: [Resilience Engineering as DevOps: How Your Systems Keep Running Day After Day - John Allspaw](https://www.youtube.com/watch?v=xA5U85LSk0M)
+- **YouTube**: [Microservices at Netflix Scale: Principles, Tradeoffs & Lessons Learned (GOTO 2016)](https://youtu.be/57UK46qfBLY)
 - **YouTube**: [The AWS Philosophy of Security | AWS re:Invent 2017](https://www.youtube.com/watch?v=KJiCfPXOW-U)
 - **Newsletter/Blog**: [SRE Weekly](https://sreweekly.com/)
 - **Article**: [Documenting Architecture Decisions (ADR)](http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions)
