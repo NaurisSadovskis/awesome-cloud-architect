@@ -36,13 +36,14 @@ Books in this section aim to provide fundamental theoretical knowledge for under
 ## Conferences
 - [AWS Re:Invent](https://reinvent.awsevents.com/) - [[Las Vegas, 2016](https://gist.github.com/stevenringo/5f0f9cc7b329dbaa76f495a6af8241e9)]
 - [Google Next](https://cloudnext.withgoogle.com/) - [[San Francisco, 2017](https://www.youtube.com/watch?v=j_K1YoMHpbk&list=PLIivdWyY5sqI8RuUibiH8sMb1ExIw0lAR)]
+- [GOTO Conference](https://blog.gotocon.com/) - [[YouTube Channel]](https://www.youtube.com/user/GotoConferences/videos)
 - [StrangeLoop](https://www.thestrangeloop.com/) - [[St. Louis, 2017](https://www.youtube.com/watch?v=_Zoa3xkzgFk&list=PLcGKfGEEONaDzd0Hkn2f1talsTu1HLDYu)] [[St. Louis, 2016](https://www.youtube.com/watch?v=C4rT0lgJr6U&list=PLcGKfGEEONaDvuLDFFKRfzbsaBuVVXdYa)]
 - [CloudNativeCon / KubeCon](http://events.linuxfoundation.org/events/kubecon) - [[Berlin, 2017](https://www.youtube.com/watch?v=FYCYtAaU9Xw&list=PLj6h78yzYM2PAavlbv0iZkod4IVh_iGqV)]
 - [DockerCon](https://2017.dockercon.com/) - [[Austin, 2017](https://www.youtube.com/playlist?list=PLkA60AVN3hh_nihZ1mh6cO3n-uMdF7UlV)]
 - [HashiConf](https://www.hashiconf.com/) - [[San Francisco, 2017](https://www.youtube.com/watch?v=b6nn7vLdjo8&list=PL81sUbsFNc5Y-jbEC1y5BWenDoYscVv4t)]
 
 ## SRE/DevOps/WebOps
-- **Book**: [The Devops Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations ](https://www.amazon.co.uk/Devops-Handbook-World-Class-Reliability-Organizations/dp/1942788002)
+- **Book**: [The Devops Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations](https://www.amazon.co.uk/Devops-Handbook-World-Class-Reliability-Organizations/dp/1942788002)
 - **Book**: [Practice of Cloud System Administration, The: Designing and Operating Large Distributed Systems](https://www.amazon.co.uk/Practice-Cloud-System-Administration-Distributed/dp)
 - **Book**: [Site Reliability Engineering: How Google Runs Production Systems](https://www.amazon.co.uk/Site-Reliability-Engineering-Production-Systems/dp/149192912X)
 - **Book**: [Cloud Native Infrastructure: Patterns for Scalable Infrastructure and Applications in a Dynamic Environment](https://www.amazon.co.uk/Cloud-Native-Infrastructure-Justin-Garrison/dp/1491984309) - Available [for FREE!](http://www.oreilly.com/pub/get/thecloudcast2017)
@@ -58,6 +59,7 @@ Books in this section aim to provide fundamental theoretical knowledge for under
 - **YouTube**: [Resilience Engineering as DevOps: How Your Systems Keep Running Day After Day - John Allspaw](https://www.youtube.com/watch?v=xA5U85LSk0M)
 - **YouTube**: [Microservices at Netflix Scale: Principles, Tradeoffs & Lessons Learned (GOTO 2016)](https://youtu.be/57UK46qfBLY)
 - **YouTube**: [The AWS Philosophy of Security | AWS re:Invent 2017](https://www.youtube.com/watch?v=KJiCfPXOW-U)
+- **YouTube**: [Making the Shift from DevOps to Practical DevSecOps | AWS re:Invent 2017](https://www.youtube.com/watch?v=BAsLEsEVThM)
 - **Newsletter/Blog**: [SRE Weekly](https://sreweekly.com/)
 - **Article**: [Documenting Architecture Decisions (ADR)](http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions)
 
